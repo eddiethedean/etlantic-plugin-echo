@@ -1,0 +1,28 @@
+{
+  "capabilities": [
+    "dataframe"
+  ],
+  "digest": "sha256:c5b6d14a11b51697945319081bbe075716c606963e63a57ef0d66bd902476bba",
+  "entries": [
+    {
+      "capabilities": [
+        "dataframe",
+        "eager"
+      ],
+      "engine": "echo",
+      "group": "etlantic.dataframe_plugins",
+      "name": "echo",
+      "protocol": "etlantic.dataframe/1",
+      "target": "etlantic_echo:create_plugin"
+    }
+  ],
+  "package": "etlantic-plugin-echo",
+  "privileges": [],
+  "protocol_range": "etlantic.dataframe/1",
+  "provenance": {
+    "publisher": "etlantic",
+    "role": "external-reference"
+  },
+  "schema": "etlantic.plugin_manifest/1",
+  "version": "0.22.0"
+}
