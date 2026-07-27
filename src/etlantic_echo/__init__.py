@@ -1,6 +1,6 @@
 """Minimal in-memory ``echo`` dataframe plugin for ETLantic protocol ``/1``.
 
-This package is the out-of-monorepo reference plugin for the 0.22 Plugin SDK.
+This package is the out-of-monorepo reference plugin for the 0.23 line.
 It uses only public ETLantic APIs and is tested solely via
 ``etlantic.testing`` plus ``etlantic plugin compatibility``.
 """
@@ -21,7 +21,7 @@ from etlantic.dataframe.protocol import (
     ValidationDecision,
 )
 
-__version__ = "0.22.0"
+__version__ = "0.23.0"
 
 __all__ = ["EchoDataframePlugin", "__version__", "create_plugin"]
 
