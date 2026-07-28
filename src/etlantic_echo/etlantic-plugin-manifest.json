@@ -2,7 +2,7 @@
   "capabilities": [
     "dataframe"
   ],
-  "digest": "sha256:dc0d7404314f42e90713627f90498e8001d6c03631fcdade2a79aca6530d3329",
+  "digest": "sha256:91c34f5df337c62c768c1949f413c68abffe4a8117d0893913cf10ca00f9cfef",
   "entries": [
     {
       "capabilities": [
@@ -24,5 +24,5 @@
     "role": "external-reference"
   },
   "schema": "etlantic.plugin_manifest/1",
-  "version": "0.30.0"
+  "version": "0.31.0"
 }
