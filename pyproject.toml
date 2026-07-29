@@ -17,7 +17,7 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = [
-    "etlantic>=0.34.0,<0.34",
+    "etlantic>=0.34.0,<0.35",
 ]
 
 [project.urls]
