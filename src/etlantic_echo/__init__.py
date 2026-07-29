@@ -21,7 +21,7 @@ from etlantic.dataframe.protocol import (
     ValidationDecision,
 )
 
-__version__ = "0.26.0"
+__version__ = "0.33.0"
 
 __all__ = ["EchoDataframePlugin", "__version__", "create_plugin"]
 
