@@ -9,7 +9,7 @@ Minimal **out-of-monorepo** dataframe plugin for the
 - Tests: **only** public `etlantic.testing` suites +
   `etlantic plugin compatibility`
 
-This repository is the external proof artifact for ETLantic 0.34.
+This repository is the external proof artifact for ETLantic 0.35.
 
 ## Install (development against workspace core)
 
